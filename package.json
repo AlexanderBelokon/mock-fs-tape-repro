@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.test.js",
   "scripts": {
-    "test": "node index.test.js"
+    "test": "node index.test.js",
+    "hack": "node hack.test.js"
   },
   "author": "",
   "license": "ISC",
